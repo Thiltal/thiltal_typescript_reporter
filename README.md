@@ -1,0 +1,1 @@
+Annotations for thiltal_typescript_generator library
